@@ -10,6 +10,9 @@ Dayi (http://www.dayi.com) table for fcitx5
 
 How to install
 ==============
-$ makepkg
-$ sudo pacman -U fcitx5-table-dayi3-$(pkgver)-$(pkgrel)-$(arch)-pkg.tar.xz
-$ fcitx5-configtool
+    $ mkdir build
+    $ cd build
+    $ wget https://raw.githubusercontent.com/bruce-awareit/fcitx5-table-dayi3/main/PKGBUILD
+    $ makepkg
+    $ sudo pacman -U fcitx5-table-dayi3-$(pkgver)-$(pkgrel)-$(arch)-pkg.tar.xz
+    $ fcitx5-configtool
