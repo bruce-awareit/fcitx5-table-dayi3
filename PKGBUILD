@@ -8,7 +8,7 @@ license=('GPL')
 depends=('fcitx5-chinese-addons')
 makedepends=('extra-cmake-modules' 'boost')
 
-source=("fcitx5-table-dayi3.tar.xz")
+source=("fcitx5-table-dayi3":"git+https://github.com/bruce-awareit/fcitx5-table-dayi3.git")
 
 sha512sums=('SKIP')
 
