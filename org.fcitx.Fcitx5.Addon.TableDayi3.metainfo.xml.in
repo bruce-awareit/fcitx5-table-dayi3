@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="addon">
+  <id>org.fcitx.Fcitx5.Addon.TableDayi3</id>
+  <extends>org.fcitx.Fcitx5</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Table Dayi3</name>
+  <summary>Dayi3 Table based Chinese input method</summary>
+  <url type="bugtracker">https://github.com/fcitx/fcitx5-table-Dayi3/issues</url>
+  <url type="homepage">https://fcitx-im.org</url>
+  <project_group>Fcitx</project_group>
+  <releases>
+    <release version="5.0.10" date="2022-06-04"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>
+

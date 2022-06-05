@@ -1,4 +1,4 @@
-#Fcitx5 的大易三碼輸入法模組
+# Fcitx5 的大易三碼輸入法模組
 
 * 在 Arch Linux 中，必需先安裝的套件
     - fcitx5-chinese-addon，extra-cmake-modules，boost
