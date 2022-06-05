@@ -6,6 +6,9 @@
 * 在 Arch Linux 安裝大易三碼輸入法模組
 
 ```bash
+    $ mkdir build
+    $ cd build
+    $ wget https://raw.githubusercontent.com/bruce-awareit/fcitx5-table-dayi3/main/PKGBUILD
     $ makepkg
     $ sudo pacman -U fcitx5-table-dayi3-$(pkgver)-$(pkgrel)-$(arch)-pkg.tar.xz
     $ fcitx5-configtool
