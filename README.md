@@ -5,7 +5,7 @@
 
 2. 在 Arch Linux 安裝大易三碼輸入法模組
     - $ makepkg
-    - $ udo pacman -U fcitx5-table-dayi3-$(pkgver)-$(pkgrel)-$(arch)-pkg.tar.xz
+    - $ sudo pacman -U fcitx5-table-dayi3-$(pkgver)-$(pkgrel)-$(arch)-pkg.tar.xz
     - $ fcitx5-configtool
     > 把"大易3"選入輸入法
 
