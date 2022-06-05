@@ -1,0 +1,15 @@
+Prerequisite
+===============
+	$ sudo pacman -S fcitx5-chinese-addons extra-cmake-modules boost
+
+
+Description
+==============
+Dayi (http://www.dayi.com) table for fcitx5
+
+
+How to install
+==============
+$ makepkg
+$ sudo pacman -U fcitx5-table-dayi3-$(pkgver)-$(pkgrel)-$(arch)-pkg.tar.xz
+$ fcitx5-configtool
