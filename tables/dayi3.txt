@@ -780,6 +780,7 @@ n;  触
 na  欠
 nc  色
 nd  魯
+nf  𩵚
 nh  鳭
 ni  彙
 nn  多
