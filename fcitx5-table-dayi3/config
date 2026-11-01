@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/bruce-awareit/fcitx5-table-dayi3.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true

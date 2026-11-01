@@ -1,5 +1,6 @@
 set(TABLE_NAME
   dayi3
+  dayi3-danbo
   )
 
 set(MB_FILE)

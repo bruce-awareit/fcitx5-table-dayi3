@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -19,4 +18,4 @@ msgstr ""
 
 #: tables/dayi3.conf.in:3
 msgid "Dayi3"
-msgstr ""
+msgstr "大易三碼"

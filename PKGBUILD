@@ -1,5 +1,5 @@
 pkgname=fcitx5-table-dayi3
-pkgver=5.0.10
+pkgver=5.1.13
 pkgrel=1
 pkgdesc="Dayi3 tables for Fcitx5"
 arch=('any')

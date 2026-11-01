@@ -17,4 +17,5 @@
 * 參考資料
     - 大易公司：<http://www.dayi.com>
     - dayi-fcitx 專案：<https://github.com/twManu/dayi-fcitx>
+    - 淡泊輸入法：https://dayi-danbo.blogspot.com/2014/08/blog-post.html
     - fcitx5-table-extra 專案：<https://github.com/fcitx/fcitx5-table-extra>
